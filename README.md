@@ -50,6 +50,7 @@ This project analyses user behaviour across an e-commerce funnel and evaluates a
 - Scale successful variant from A/B test
 
 ---
+<img width="1536" height="1024" alt="ecommerce-funnel-ab-testing-analysis-banner png" src="https://github.com/user-attachments/assets/957fedd0-ebe2-4c6c-bc33-07da8009807a" />
 
 ## 🚀 How to Run
 ```bash
@@ -57,3 +58,7 @@ git clone https://github.com/your-username/ecommerce-funnel-ab-testing-analysis.
 cd ecommerce-funnel-ab-testing-analysis
 pip install -r requirements.txt
 jupyter notebook
+
+
+
+
