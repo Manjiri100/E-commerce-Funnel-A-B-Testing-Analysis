@@ -1,53 +1,42 @@
-# 📊 E-commerce Funnel & A/B Testing Analysis
+📊 E-commerce Funnel & A/B Testing Analysis
+📌 Project Overview
 
-## 📌 Project Overview
-This project analyses user behaviour across an e-commerce funnel and evaluates an A/B test experiment to measure conversion performance. The goal is to identify drop-off points and provide data-driven recommendations to improve conversion rates.
+This project analyses user behaviour across an e-commerce conversion funnel and evaluates an A/B testing experiment to assess the impact of a product variation on conversion performance. The objective is to identify friction points in the customer journey, quantify conversion bottlenecks, and support data-driven optimisation decisions.
 
----
+🎯 Business Objective
 
-## 🎯 Objectives
-- Analyse user journey across e-commerce funnel stages
-- Identify where users drop off in the funnel
-- Compare control vs variant in A/B testing
-- Measure conversion rate uplift
-- Provide actionable business recommendations
+To improve e-commerce conversion performance by:
 
----
-
-## 🧰 Tools & Technologies
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
-- Statistical A/B testing concepts
-
----
-
-## 📊 Analysis Performed
-### 1. Funnel Analysis
-- User progression from view → add to cart → checkout → purchase
-- Drop-off rate calculation at each stage
-- Funnel visualisation
-
-### 2. A/B Testing
-- Comparison of control vs variant groups
-- Conversion rate analysis
-- Performance evaluation of experiment
-
----
-
-## 📈 Key Insights
-- Highest drop-off observed at checkout stage
-- Variant group showed improved conversion rate
-- Clear opportunity to optimise checkout process
-
----
-
-## 📌 Business Recommendations
-- Improve checkout user experience
-- Reduce friction in payment flow
-- Retarget abandoned carts
-- Scale successful variant from A/B test
+Identifying where users drop off in the funnel
+Evaluating the effectiveness of a variant through A/B testing
+Understanding behavioural bottlenecks affecting conversion
+Recommending optimisations to improve funnel efficiency
+🧰 Tools & Technologies
+Python
+Pandas, NumPy
+Matplotlib, Seaborn
+Jupyter Notebook
+A/B Testing (statistical comparison of group performance)
+📊 Methodology
+1. Funnel Performance Analysis
+Mapped user journey across key stages: view → add to cart → checkout → purchase
+Measured stage-wise conversion and drop-off rates
+Identified conversion leakage points in the funnel
+Visualised funnel performance to highlight inefficiencies
+2. A/B Testing Evaluation
+Compared control and variant groups across conversion metrics
+Assessed performance differences between user groups
+Evaluated whether the variant improved conversion outcomes
+Interpreted results to support product decision-making
+📈 Key Insights
+Significant user drop-off observed at the checkout stage, indicating friction in the final conversion step
+The variant group showed improved conversion performance compared to the control group
+Funnel analysis highlighted that mid-to-late funnel stages present the highest optimisation opportunity
+📌 Business Recommendations
+Reduce friction in the checkout process to improve completion rates
+Streamline payment flow and remove unnecessary steps
+Implement cart abandonment recovery strategies to re-engage users
+Scale the higher-performing variant based on observed conversion improvement
 
 ---
 <img width="1536" height="1024" alt="ecommerce-funnel-ab-testing-analysis-banner png" src="https://github.com/user-attachments/assets/957fedd0-ebe2-4c6c-bc33-07da8009807a" />
