@@ -1,42 +1,130 @@
-📊 E-commerce Funnel & A/B Testing Analysis
-📌 Project Overview
+# 📊 E-commerce Funnel Optimization & A/B Testing Analysis
 
-This project analyses user behaviour across an e-commerce conversion funnel and evaluates an A/B testing experiment to assess the impact of a product variation on conversion performance. The objective is to identify friction points in the customer journey, quantify conversion bottlenecks, and support data-driven optimisation decisions.
+## Executive Summary
 
-🎯 Business Objective
+This project investigates user behavior across an e-commerce conversion funnel and evaluates the impact of a product experiment through A/B testing.
 
-To improve e-commerce conversion performance by:
+The analysis focuses on identifying conversion bottlenecks, quantifying revenue-impacting drop-off points, and measuring the effectiveness of a product variant in driving customer purchases. The findings are translated into actionable recommendations aimed at improving funnel efficiency and conversion performance.
 
-Identifying where users drop off in the funnel
-Evaluating the effectiveness of a variant through A/B testing
-Understanding behavioural bottlenecks affecting conversion
-Recommending optimisations to improve funnel efficiency
-🧰 Tools & Technologies
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Jupyter Notebook
-A/B Testing (statistical comparison of group performance)
-📊 Methodology
-1. Funnel Performance Analysis
-Mapped user journey across key stages: view → add to cart → checkout → purchase
-Measured stage-wise conversion and drop-off rates
-Identified conversion leakage points in the funnel
-Visualised funnel performance to highlight inefficiencies
-2. A/B Testing Evaluation
-Compared control and variant groups across conversion metrics
-Assessed performance differences between user groups
-Evaluated whether the variant improved conversion outcomes
-Interpreted results to support product decision-making
-📈 Key Insights
-Significant user drop-off observed at the checkout stage, indicating friction in the final conversion step
-The variant group showed improved conversion performance compared to the control group
-Funnel analysis highlighted that mid-to-late funnel stages present the highest optimisation opportunity
-📌 Business Recommendations
-Reduce friction in the checkout process to improve completion rates
-Streamline payment flow and remove unnecessary steps
-Implement cart abandonment recovery strategies to re-engage users
-Scale the higher-performing variant based on observed conversion improvement
+---
+
+## Business Context
+
+E-commerce businesses often experience significant user attrition between product discovery and purchase completion. Understanding where users disengage and validating optimization initiatives through experimentation are critical for improving revenue outcomes.
+
+This analysis was conducted to:
+
+* Evaluate end-to-end funnel performance
+* Identify stages contributing most to conversion loss
+* Measure the impact of a product variation on user conversion behavior
+* Support evidence-based product and growth decisions
+
+---
+
+## Analytical Approach
+
+### Funnel Performance Analysis
+
+The customer journey was analyzed across four key stages:
+
+1. Product View
+2. Add to Cart
+3. Checkout
+4. Purchase
+
+Key metrics evaluated included:
+
+* Stage-wise conversion rates
+* Funnel completion rate
+* User drop-off percentages
+* Conversion leakage across the purchase journey
+
+### Experiment Analysis (A/B Testing)
+
+A controlled experiment was evaluated to determine whether a product variation influenced user conversion behavior.
+
+The analysis included:
+
+* Control vs Variant performance comparison
+* Conversion rate evaluation
+* Relative uplift measurement
+* Statistical assessment of experiment outcomes
+
+---
+
+## Key Findings
+
+### Funnel Analysis
+
+* The largest conversion loss occurred between Checkout and Purchase.
+* Users progressed effectively through early funnel stages but encountered significant friction during transaction completion.
+* Late-stage funnel leakage represented the highest opportunity for conversion improvement.
+
+### Experiment Results
+
+* The Variant group outperformed the Control group in overall conversion performance.
+* Observed uplift suggests that the tested variation positively influenced user behavior.
+* Results support further validation and potential rollout of the experimental experience.
+
+---
+
+## Business Impact
+
+The analysis highlights opportunities to improve revenue generation through targeted funnel optimization initiatives.
+
+Potential impact areas include:
+
+* Increased checkout completion rates
+* Reduced cart abandonment
+* Improved customer acquisition efficiency
+* Higher overall conversion performance
+
+---
+
+## Strategic Recommendations
+
+### Checkout Optimization
+
+* Simplify the checkout workflow
+* Reduce form complexity
+* Minimize unnecessary user actions
+
+### Cart Recovery Strategy
+
+* Implement abandoned cart recovery campaigns
+* Introduce personalized reminder workflows
+* Test incentive-based re-engagement tactics
+
+### Experimentation Roadmap
+
+* Continue validating the winning variant
+* Conduct follow-up experiments on checkout experience
+* Establish ongoing experimentation and measurement frameworks
+
+---
+
+## Technology Stack
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
+## Skills Demonstrated
+
+* Product Analytics
+* Funnel Analysis
+* Conversion Optimization
+* A/B Testing & Experimentation
+* Statistical Analysis
+* Data Visualization
+* Business Performance Measurement
+* Stakeholder-Focused Insights
+
 
 ---
 <img width="1536" height="1024" alt="ecommerce-funnel-ab-testing-analysis-banner png" src="https://github.com/user-attachments/assets/957fedd0-ebe2-4c6c-bc33-07da8009807a" />
